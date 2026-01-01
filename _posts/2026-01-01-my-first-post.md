@@ -1,6 +1,6 @@
 ---
 layout: post
 title: "My First Post"
-date: 2026-01-01 10:00:00 +0400
+date: 2026-01-01
 ---
-Hello! This is my first post.
+Here is the content of my first blog post!
