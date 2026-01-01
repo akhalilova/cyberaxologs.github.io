@@ -1,8 +1,5 @@
 ---
-layout: default
+layout: home
 title: CyberAxologs
 ---
-
-# Welcome to CyberAxologs
-
-This is the homepage. Navigate to [Blog](/blog/) to see posts.
+Welcome to my tech blog! Scroll down to see all posts.
