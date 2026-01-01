@@ -1,3 +1,10 @@
-## CyberAxologs
+---
+layout: default
+title: CyberAxologs
+---
 
-> A personal cybersecurity log. Learning in public.
+# Welcome to CyberAxologs
+
+Learning in public. A personal cybersecurity log.  
+
+Go to [Blog](/blog/) to see posts.
