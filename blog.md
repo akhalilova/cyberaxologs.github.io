@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Blog
-permalink: /blog/
+title: CyberAxologs
 ---
 
-# Blog
+# Welcome to CyberAxologs
 
-{% for post in site.posts %}
-- [{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%B %d, %Y" }}
-{% endfor %}
+Learning in public. A personal cybersecurity log.  
+
+Go to [Blog](/blog/) to see posts.
