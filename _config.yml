@@ -5,8 +5,4 @@ nav:
   - name: Home
     link: /
   - name: Blog
-    link: /blog
-  - name: Projects
-    link: /projects
-  - name: About
-    link: /about
+    link: /blog/
